@@ -20,4 +20,3 @@ Tailwind Components ->
 
 ## Other Resources
 Icon -> [FlatIcon](https://www.flaticon.com/)
-Product Photos -> [Freepic](https://freepic.com)
